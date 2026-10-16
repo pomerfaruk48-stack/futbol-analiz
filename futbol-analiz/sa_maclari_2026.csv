@@ -1,0 +1,381 @@
+﻿Tarih,Ev Sahibi,Deplasman,Ev Sahibi Gol,Deplasman Gol,Durum,Lig,Lig Kodu
+2026-08-22T16:30:00Z,Udinese Calcio,Como 1907,1.0,1.0,FINISHED,Serie A,SA
+2026-08-22T16:30:00Z,FC Internazionale Milano,AC Monza,4.0,1.0,FINISHED,Serie A,SA
+2026-08-22T18:45:00Z,Genoa CFC,SSC Napoli,0.0,2.0,FINISHED,Serie A,SA
+2026-08-22T18:45:00Z,Parma Calcio 1913,Cagliari Calcio,0.0,1.0,FINISHED,Serie A,SA
+2026-08-23T16:30:00Z,Frosinone Calcio,Juventus FC,0.0,1.0,FINISHED,Serie A,SA
+2026-08-23T16:30:00Z,Venezia FC,US Lecce,0.0,2.0,FINISHED,Serie A,SA
+2026-08-23T18:45:00Z,Atalanta BC,US Sassuolo Calcio,2.0,1.0,FINISHED,Serie A,SA
+2026-08-23T18:45:00Z,Torino FC,AC Milan,1.0,2.0,FINISHED,Serie A,SA
+2026-08-24T16:30:00Z,Bologna FC 1909,SS Lazio,0.0,1.0,FINISHED,Serie A,SA
+2026-08-24T18:45:00Z,AS Roma,ACF Fiorentina,4.0,0.0,FINISHED,Serie A,SA
+2026-08-28T18:45:00Z,AC Milan,Venezia FC,2.0,0.0,FINISHED,Serie A,SA
+2026-08-29T16:30:00Z,US Sassuolo Calcio,Torino FC,2.0,1.0,FINISHED,Serie A,SA
+2026-08-29T16:30:00Z,AC Monza,Udinese Calcio,2.0,3.0,FINISHED,Serie A,SA
+2026-08-29T16:30:00Z,ACF Fiorentina,Frosinone Calcio,0.0,3.0,FINISHED,Serie A,SA
+2026-08-29T18:45:00Z,Juventus FC,Parma Calcio 1913,2.0,0.0,FINISHED,Serie A,SA
+2026-08-30T16:30:00Z,SSC Napoli,Como 1907,1.0,2.0,FINISHED,Serie A,SA
+2026-08-30T18:45:00Z,SS Lazio,Genoa CFC,1.0,0.0,FINISHED,Serie A,SA
+2026-08-30T18:45:00Z,Cagliari Calcio,FC Internazionale Milano,0.0,1.0,FINISHED,Serie A,SA
+2026-08-31T16:30:00Z,US Lecce,AS Roma,0.0,4.0,FINISHED,Serie A,SA
+2026-08-31T18:45:00Z,Atalanta BC,Bologna FC 1909,1.0,0.0,FINISHED,Serie A,SA
+2026-09-04T18:45:00Z,Genoa CFC,Como 1907,1.0,4.0,FINISHED,Serie A,SA
+2026-09-05T13:00:00Z,ACF Fiorentina,Torino FC,1.0,2.0,FINISHED,Serie A,SA
+2026-09-05T16:00:00Z,FC Internazionale Milano,SSC Napoli,3.0,2.0,FINISHED,Serie A,SA
+2026-09-05T18:45:00Z,AS Roma,Atalanta BC,2.0,1.0,FINISHED,Serie A,SA
+2026-09-06T13:00:00Z,Parma Calcio 1913,AC Monza,1.0,1.0,FINISHED,Serie A,SA
+2026-09-06T13:00:00Z,Frosinone Calcio,Venezia FC,3.0,2.0,FINISHED,Serie A,SA
+2026-09-06T16:00:00Z,Bologna FC 1909,US Sassuolo Calcio,2.0,2.0,FINISHED,Serie A,SA
+2026-09-06T18:45:00Z,Juventus FC,AC Milan,1.0,1.0,FINISHED,Serie A,SA
+2026-09-07T16:30:00Z,Cagliari Calcio,US Lecce,1.0,0.0,FINISHED,Serie A,SA
+2026-09-07T18:45:00Z,Udinese Calcio,SS Lazio,1.0,2.0,FINISHED,Serie A,SA
+2026-09-11T18:45:00Z,Venezia FC,ACF Fiorentina,2.0,4.0,FINISHED,Serie A,SA
+2026-09-12T13:00:00Z,Genoa CFC,Frosinone Calcio,1.0,1.0,FINISHED,Serie A,SA
+2026-09-12T16:00:00Z,SS Lazio,AC Milan,2.0,2.0,FINISHED,Serie A,SA
+2026-09-12T18:45:00Z,Atalanta BC,Cagliari Calcio,1.0,2.0,FINISHED,Serie A,SA
+2026-09-13T13:00:00Z,US Lecce,AC Monza,3.0,2.0,FINISHED,Serie A,SA
+2026-09-13T16:00:00Z,SSC Napoli,Bologna FC 1909,1.0,0.0,FINISHED,Serie A,SA
+2026-09-13T18:45:00Z,US Sassuolo Calcio,Juventus FC,3.0,2.0,FINISHED,Serie A,SA
+2026-09-14T16:30:00Z,Como 1907,Parma Calcio 1913,2.0,1.0,FINISHED,Serie A,SA
+2026-09-14T16:30:00Z,Torino FC,AS Roma,0.0,2.0,FINISHED,Serie A,SA
+2026-09-14T18:45:00Z,FC Internazionale Milano,Udinese Calcio,5.0,3.0,FINISHED,Serie A,SA
+2026-09-18T18:45:00Z,AC Monza,US Sassuolo Calcio,2.0,1.0,FINISHED,Serie A,SA
+2026-09-19T13:00:00Z,Bologna FC 1909,Torino FC,1.0,1.0,FINISHED,Serie A,SA
+2026-09-19T13:00:00Z,Udinese Calcio,Cagliari Calcio,0.0,1.0,FINISHED,Serie A,SA
+2026-09-19T16:00:00Z,AS Roma,FC Internazionale Milano,2.0,2.0,FINISHED,Serie A,SA
+2026-09-19T18:45:00Z,Venezia FC,SS Lazio,0.0,2.0,FINISHED,Serie A,SA
+2026-09-20T10:30:00Z,ACF Fiorentina,SSC Napoli,1.0,1.0,FINISHED,Serie A,SA
+2026-09-20T13:00:00Z,Frosinone Calcio,Como 1907,2.0,0.0,FINISHED,Serie A,SA
+2026-09-20T13:00:00Z,Parma Calcio 1913,Genoa CFC,2.0,1.0,FINISHED,Serie A,SA
+2026-09-20T16:00:00Z,Juventus FC,Atalanta BC,2.0,0.0,FINISHED,Serie A,SA
+2026-09-20T18:45:00Z,AC Milan,US Lecce,3.0,0.0,FINISHED,Serie A,SA
+2026-10-10T13:00:00Z,Genoa CFC,ACF Fiorentina,2.0,1.0,FINISHED,Serie A,SA
+2026-10-10T16:00:00Z,FC Internazionale Milano,Parma Calcio 1913,3.0,0.0,FINISHED,Serie A,SA
+2026-10-10T18:45:00Z,SSC Napoli,Frosinone Calcio,3.0,0.0,FINISHED,Serie A,SA
+2026-10-11T10:30:00Z,Como 1907,AS Roma,0.0,0.0,FINISHED,Serie A,SA
+2026-10-11T13:00:00Z,US Lecce,Bologna FC 1909,1.0,2.0,FINISHED,Serie A,SA
+2026-10-11T13:00:00Z,SS Lazio,AC Monza,3.0,1.0,FINISHED,Serie A,SA
+2026-10-11T16:00:00Z,US Sassuolo Calcio,AC Milan,1.0,1.0,FINISHED,Serie A,SA
+2026-10-11T18:45:00Z,Cagliari Calcio,Juventus FC,1.0,1.0,FINISHED,Serie A,SA
+2026-10-12T16:30:00Z,Atalanta BC,Venezia FC,3.0,1.0,FINISHED,Serie A,SA
+2026-10-12T18:45:00Z,Torino FC,Udinese Calcio,2.0,1.0,FINISHED,Serie A,SA
+2026-10-16T18:45:00Z,Frosinone Calcio,US Sassuolo Calcio,4.0,2.0,FINISHED,Serie A,SA
+2026-10-17T13:00:00Z,Venezia FC,SSC Napoli,,,TIMED,Serie A,SA
+2026-10-17T16:00:00Z,Bologna FC 1909,FC Internazionale Milano,,,TIMED,Serie A,SA
+2026-10-17T18:45:00Z,AS Roma,Genoa CFC,,,TIMED,Serie A,SA
+2026-10-18T10:30:00Z,Udinese Calcio,US Lecce,,,TIMED,Serie A,SA
+2026-10-18T13:00:00Z,ACF Fiorentina,Como 1907,,,TIMED,Serie A,SA
+2026-10-18T16:00:00Z,AC Milan,Atalanta BC,,,TIMED,Serie A,SA
+2026-10-18T18:45:00Z,Juventus FC,SS Lazio,,,TIMED,Serie A,SA
+2026-10-19T16:30:00Z,AC Monza,Cagliari Calcio,,,TIMED,Serie A,SA
+2026-10-19T18:45:00Z,Parma Calcio 1913,Torino FC,,,TIMED,Serie A,SA
+2026-10-23T18:45:00Z,Torino FC,AC Monza,,,TIMED,Serie A,SA
+2026-10-24T13:00:00Z,Cagliari Calcio,Bologna FC 1909,,,TIMED,Serie A,SA
+2026-10-24T13:00:00Z,Como 1907,US Sassuolo Calcio,,,TIMED,Serie A,SA
+2026-10-24T16:00:00Z,SSC Napoli,AS Roma,,,TIMED,Serie A,SA
+2026-10-24T18:45:00Z,SS Lazio,Parma Calcio 1913,,,TIMED,Serie A,SA
+2026-10-25T11:30:00Z,FC Internazionale Milano,ACF Fiorentina,,,TIMED,Serie A,SA
+2026-10-25T14:00:00Z,Atalanta BC,Frosinone Calcio,,,TIMED,Serie A,SA
+2026-10-25T14:00:00Z,Genoa CFC,Venezia FC,,,TIMED,Serie A,SA
+2026-10-25T17:00:00Z,US Lecce,Juventus FC,,,TIMED,Serie A,SA
+2026-10-25T19:45:00Z,Udinese Calcio,AC Milan,,,TIMED,Serie A,SA
+2026-10-27T17:30:00Z,US Sassuolo Calcio,SS Lazio,,,TIMED,Serie A,SA
+2026-10-27T19:45:00Z,AS Roma,Cagliari Calcio,,,TIMED,Serie A,SA
+2026-10-27T19:45:00Z,Torino FC,Como 1907,,,TIMED,Serie A,SA
+2026-10-28T17:30:00Z,AC Milan,Bologna FC 1909,,,TIMED,Serie A,SA
+2026-10-28T17:30:00Z,Venezia FC,FC Internazionale Milano,,,TIMED,Serie A,SA
+2026-10-28T17:30:00Z,Parma Calcio 1913,Udinese Calcio,,,TIMED,Serie A,SA
+2026-10-28T19:45:00Z,Genoa CFC,Juventus FC,,,TIMED,Serie A,SA
+2026-10-28T19:45:00Z,AC Monza,SSC Napoli,,,TIMED,Serie A,SA
+2026-10-29T17:30:00Z,Frosinone Calcio,US Lecce,,,TIMED,Serie A,SA
+2026-10-29T19:45:00Z,ACF Fiorentina,Atalanta BC,,,TIMED,Serie A,SA
+2026-10-31T14:00:00Z,Bologna FC 1909,AC Monza,,,TIMED,Serie A,SA
+2026-10-31T17:00:00Z,Udinese Calcio,AS Roma,,,TIMED,Serie A,SA
+2026-10-31T19:45:00Z,AC Milan,FC Internazionale Milano,,,TIMED,Serie A,SA
+2026-11-01T11:30:00Z,Como 1907,Venezia FC,,,TIMED,Serie A,SA
+2026-11-01T14:00:00Z,Frosinone Calcio,Torino FC,,,TIMED,Serie A,SA
+2026-11-01T14:00:00Z,SS Lazio,Cagliari Calcio,,,TIMED,Serie A,SA
+2026-11-01T17:00:00Z,US Lecce,Genoa CFC,,,TIMED,Serie A,SA
+2026-11-01T19:45:00Z,Juventus FC,SSC Napoli,,,TIMED,Serie A,SA
+2026-11-02T17:30:00Z,US Sassuolo Calcio,ACF Fiorentina,,,TIMED,Serie A,SA
+2026-11-02T19:45:00Z,Atalanta BC,Parma Calcio 1913,,,TIMED,Serie A,SA
+2026-11-06T19:45:00Z,Venezia FC,Udinese Calcio,,,TIMED,Serie A,SA
+2026-11-07T14:00:00Z,Torino FC,US Lecce,,,TIMED,Serie A,SA
+2026-11-07T14:00:00Z,Cagliari Calcio,Frosinone Calcio,,,TIMED,Serie A,SA
+2026-11-07T17:00:00Z,Parma Calcio 1913,Bologna FC 1909,,,TIMED,Serie A,SA
+2026-11-07T19:45:00Z,AS Roma,US Sassuolo Calcio,,,TIMED,Serie A,SA
+2026-11-08T11:30:00Z,SSC Napoli,SS Lazio,,,TIMED,Serie A,SA
+2026-11-08T14:00:00Z,Genoa CFC,AC Milan,,,TIMED,Serie A,SA
+2026-11-08T14:00:00Z,AC Monza,Atalanta BC,,,TIMED,Serie A,SA
+2026-11-08T17:00:00Z,FC Internazionale Milano,Como 1907,,,TIMED,Serie A,SA
+2026-11-08T19:45:00Z,ACF Fiorentina,Juventus FC,,,TIMED,Serie A,SA
+2026-11-21T14:00:00Z,Como 1907,Cagliari Calcio,,,TIMED,Serie A,SA
+2026-11-21T14:00:00Z,SS Lazio,US Lecce,,,TIMED,Serie A,SA
+2026-11-21T17:00:00Z,Parma Calcio 1913,AS Roma,,,TIMED,Serie A,SA
+2026-11-21T19:45:00Z,SSC Napoli,Torino FC,,,TIMED,Serie A,SA
+2026-11-22T11:30:00Z,Juventus FC,Venezia FC,,,TIMED,Serie A,SA
+2026-11-22T14:00:00Z,Bologna FC 1909,Udinese Calcio,,,TIMED,Serie A,SA
+2026-11-22T14:00:00Z,US Sassuolo Calcio,Genoa CFC,,,TIMED,Serie A,SA
+2026-11-22T17:00:00Z,AC Milan,Frosinone Calcio,,,TIMED,Serie A,SA
+2026-11-22T19:45:00Z,Atalanta BC,FC Internazionale Milano,,,TIMED,Serie A,SA
+2026-11-23T19:45:00Z,AC Monza,ACF Fiorentina,,,TIMED,Serie A,SA
+2026-11-27T19:45:00Z,Venezia FC,Bologna FC 1909,,,TIMED,Serie A,SA
+2026-11-28T14:00:00Z,Frosinone Calcio,Parma Calcio 1913,,,TIMED,Serie A,SA
+2026-11-28T17:00:00Z,Torino FC,SS Lazio,,,TIMED,Serie A,SA
+2026-11-28T19:45:00Z,FC Internazionale Milano,Genoa CFC,,,TIMED,Serie A,SA
+2026-11-29T11:30:00Z,Udinese Calcio,ACF Fiorentina,,,TIMED,Serie A,SA
+2026-11-29T14:00:00Z,US Sassuolo Calcio,SSC Napoli,,,TIMED,Serie A,SA
+2026-11-29T17:00:00Z,AS Roma,AC Monza,,,TIMED,Serie A,SA
+2026-11-29T19:45:00Z,Como 1907,Juventus FC,,,TIMED,Serie A,SA
+2026-11-30T17:30:00Z,US Lecce,Atalanta BC,,,TIMED,Serie A,SA
+2026-11-30T19:45:00Z,Cagliari Calcio,AC Milan,,,TIMED,Serie A,SA
+2026-12-04T19:45:00Z,Bologna FC 1909,AS Roma,,,TIMED,Serie A,SA
+2026-12-05T14:00:00Z,AC Monza,Como 1907,,,TIMED,Serie A,SA
+2026-12-05T17:00:00Z,Frosinone Calcio,FC Internazionale Milano,,,TIMED,Serie A,SA
+2026-12-05T19:45:00Z,SSC Napoli,US Lecce,,,TIMED,Serie A,SA
+2026-12-06T11:30:00Z,Genoa CFC,Torino FC,,,TIMED,Serie A,SA
+2026-12-06T14:00:00Z,SS Lazio,Atalanta BC,,,TIMED,Serie A,SA
+2026-12-06T17:00:00Z,Juventus FC,Udinese Calcio,,,TIMED,Serie A,SA
+2026-12-06T19:45:00Z,AC Milan,Parma Calcio 1913,,,TIMED,Serie A,SA
+2026-12-07T17:30:00Z,Venezia FC,US Sassuolo Calcio,,,TIMED,Serie A,SA
+2026-12-07T19:45:00Z,ACF Fiorentina,Cagliari Calcio,,,TIMED,Serie A,SA
+2026-12-11T19:45:00Z,Udinese Calcio,Frosinone Calcio,,,TIMED,Serie A,SA
+2026-12-12T14:00:00Z,Cagliari Calcio,Venezia FC,,,TIMED,Serie A,SA
+2026-12-12T17:00:00Z,US Lecce,US Sassuolo Calcio,,,TIMED,Serie A,SA
+2026-12-12T19:45:00Z,Como 1907,Bologna FC 1909,,,TIMED,Serie A,SA
+2026-12-13T11:30:00Z,SS Lazio,AS Roma,,,TIMED,Serie A,SA
+2026-12-13T14:00:00Z,FC Internazionale Milano,Torino FC,,,TIMED,Serie A,SA
+2026-12-13T17:00:00Z,Parma Calcio 1913,ACF Fiorentina,,,TIMED,Serie A,SA
+2026-12-13T19:45:00Z,SSC Napoli,AC Milan,,,TIMED,Serie A,SA
+2026-12-14T17:30:00Z,Atalanta BC,Genoa CFC,,,TIMED,Serie A,SA
+2026-12-14T19:45:00Z,Juventus FC,AC Monza,,,TIMED,Serie A,SA
+2026-12-18T17:30:00Z,Frosinone Calcio,SS Lazio,,,TIMED,Serie A,SA
+2026-12-18T19:45:00Z,US Lecce,FC Internazionale Milano,,,TIMED,Serie A,SA
+2026-12-19T14:00:00Z,US Sassuolo Calcio,Parma Calcio 1913,,,TIMED,Serie A,SA
+2026-12-19T17:00:00Z,AC Milan,Como 1907,,,TIMED,Serie A,SA
+2026-12-19T19:45:00Z,AS Roma,Juventus FC,,,TIMED,Serie A,SA
+2026-12-20T11:30:00Z,ACF Fiorentina,Bologna FC 1909,,,TIMED,Serie A,SA
+2026-12-20T14:00:00Z,Torino FC,Cagliari Calcio,,,TIMED,Serie A,SA
+2026-12-20T14:00:00Z,Venezia FC,AC Monza,,,TIMED,Serie A,SA
+2026-12-20T17:00:00Z,Genoa CFC,Udinese Calcio,,,TIMED,Serie A,SA
+2026-12-20T19:45:00Z,Atalanta BC,SSC Napoli,,,TIMED,Serie A,SA
+2027-01-02T11:30:00Z,Cagliari Calcio,Genoa CFC,,,TIMED,Serie A,SA
+2027-01-02T14:00:00Z,Torino FC,Venezia FC,,,TIMED,Serie A,SA
+2027-01-02T14:00:00Z,ACF Fiorentina,SS Lazio,,,TIMED,Serie A,SA
+2027-01-02T17:00:00Z,AS Roma,Frosinone Calcio,,,TIMED,Serie A,SA
+2027-01-02T19:45:00Z,AC Monza,AC Milan,,,TIMED,Serie A,SA
+2027-01-03T11:30:00Z,FC Internazionale Milano,US Sassuolo Calcio,,,TIMED,Serie A,SA
+2027-01-03T14:00:00Z,Udinese Calcio,Atalanta BC,,,TIMED,Serie A,SA
+2027-01-03T14:00:00Z,Como 1907,US Lecce,,,TIMED,Serie A,SA
+2027-01-03T17:00:00Z,Parma Calcio 1913,SSC Napoli,,,TIMED,Serie A,SA
+2027-01-03T19:45:00Z,Bologna FC 1909,Juventus FC,,,TIMED,Serie A,SA
+2027-01-05T17:30:00Z,Genoa CFC,AC Monza,,,TIMED,Serie A,SA
+2027-01-05T17:30:00Z,Venezia FC,AS Roma,,,TIMED,Serie A,SA
+2027-01-05T19:45:00Z,AC Milan,ACF Fiorentina,,,TIMED,Serie A,SA
+2027-01-06T11:30:00Z,Juventus FC,Torino FC,,,TIMED,Serie A,SA
+2027-01-06T14:00:00Z,Frosinone Calcio,Bologna FC 1909,,,TIMED,Serie A,SA
+2027-01-06T14:00:00Z,US Lecce,Parma Calcio 1913,,,TIMED,Serie A,SA
+2027-01-06T17:00:00Z,Atalanta BC,Como 1907,,,TIMED,Serie A,SA
+2027-01-06T19:45:00Z,SS Lazio,FC Internazionale Milano,,,TIMED,Serie A,SA
+2027-01-07T17:30:00Z,US Sassuolo Calcio,Udinese Calcio,,,TIMED,Serie A,SA
+2027-01-07T19:45:00Z,SSC Napoli,Cagliari Calcio,,,TIMED,Serie A,SA
+2027-01-09T14:00:00Z,AC Monza,Frosinone Calcio,,,TIMED,Serie A,SA
+2027-01-09T17:00:00Z,AS Roma,AC Milan,,,TIMED,Serie A,SA
+2027-01-09T19:45:00Z,Bologna FC 1909,Genoa CFC,,,TIMED,Serie A,SA
+2027-01-10T11:30:00Z,Como 1907,SS Lazio,,,TIMED,Serie A,SA
+2027-01-10T14:00:00Z,ACF Fiorentina,US Lecce,,,TIMED,Serie A,SA
+2027-01-10T14:00:00Z,Parma Calcio 1913,Venezia FC,,,TIMED,Serie A,SA
+2027-01-10T17:00:00Z,Torino FC,Atalanta BC,,,TIMED,Serie A,SA
+2027-01-10T19:45:00Z,FC Internazionale Milano,Juventus FC,,,TIMED,Serie A,SA
+2027-01-11T17:30:00Z,Cagliari Calcio,US Sassuolo Calcio,,,TIMED,Serie A,SA
+2027-01-11T19:45:00Z,Udinese Calcio,SSC Napoli,,,TIMED,Serie A,SA
+2027-01-17T00:00:00Z,AC Milan,Torino FC,,,SCHEDULED,Serie A,SA
+2027-01-17T00:00:00Z,Parma Calcio 1913,FC Internazionale Milano,,,SCHEDULED,Serie A,SA
+2027-01-17T00:00:00Z,Juventus FC,Genoa CFC,,,SCHEDULED,Serie A,SA
+2027-01-17T00:00:00Z,US Lecce,Udinese Calcio,,,SCHEDULED,Serie A,SA
+2027-01-17T00:00:00Z,Cagliari Calcio,Como 1907,,,SCHEDULED,Serie A,SA
+2027-01-17T00:00:00Z,US Sassuolo Calcio,AC Monza,,,SCHEDULED,Serie A,SA
+2027-01-17T00:00:00Z,SSC Napoli,ACF Fiorentina,,,SCHEDULED,Serie A,SA
+2027-01-17T00:00:00Z,SS Lazio,Bologna FC 1909,,,SCHEDULED,Serie A,SA
+2027-01-17T00:00:00Z,Venezia FC,Frosinone Calcio,,,SCHEDULED,Serie A,SA
+2027-01-17T00:00:00Z,Atalanta BC,AS Roma,,,SCHEDULED,Serie A,SA
+2027-01-24T00:00:00Z,US Lecce,Torino FC,,,SCHEDULED,Serie A,SA
+2027-01-24T00:00:00Z,Juventus FC,Cagliari Calcio,,,SCHEDULED,Serie A,SA
+2027-01-24T00:00:00Z,FC Internazionale Milano,Venezia FC,,,SCHEDULED,Serie A,SA
+2027-01-24T00:00:00Z,ACF Fiorentina,US Sassuolo Calcio,,,SCHEDULED,Serie A,SA
+2027-01-24T00:00:00Z,Frosinone Calcio,AC Milan,,,SCHEDULED,Serie A,SA
+2027-01-24T00:00:00Z,AS Roma,Udinese Calcio,,,SCHEDULED,Serie A,SA
+2027-01-24T00:00:00Z,Bologna FC 1909,Atalanta BC,,,SCHEDULED,Serie A,SA
+2027-01-24T00:00:00Z,Genoa CFC,Parma Calcio 1913,,,SCHEDULED,Serie A,SA
+2027-01-24T00:00:00Z,Como 1907,SSC Napoli,,,SCHEDULED,Serie A,SA
+2027-01-24T00:00:00Z,AC Monza,SS Lazio,,,SCHEDULED,Serie A,SA
+2027-01-31T00:00:00Z,AC Milan,Juventus FC,,,SCHEDULED,Serie A,SA
+2027-01-31T00:00:00Z,AC Monza,AS Roma,,,SCHEDULED,Serie A,SA
+2027-01-31T00:00:00Z,Torino FC,Frosinone Calcio,,,SCHEDULED,Serie A,SA
+2027-01-31T00:00:00Z,Udinese Calcio,Bologna FC 1909,,,SCHEDULED,Serie A,SA
+2027-01-31T00:00:00Z,US Sassuolo Calcio,Como 1907,,,SCHEDULED,Serie A,SA
+2027-01-31T00:00:00Z,Genoa CFC,US Lecce,,,SCHEDULED,Serie A,SA
+2027-01-31T00:00:00Z,Cagliari Calcio,Parma Calcio 1913,,,SCHEDULED,Serie A,SA
+2027-01-31T00:00:00Z,Atalanta BC,ACF Fiorentina,,,SCHEDULED,Serie A,SA
+2027-01-31T00:00:00Z,SS Lazio,Venezia FC,,,SCHEDULED,Serie A,SA
+2027-01-31T00:00:00Z,SSC Napoli,FC Internazionale Milano,,,SCHEDULED,Serie A,SA
+2027-02-07T00:00:00Z,Juventus FC,US Sassuolo Calcio,,,SCHEDULED,Serie A,SA
+2027-02-07T00:00:00Z,FC Internazionale Milano,Cagliari Calcio,,,SCHEDULED,Serie A,SA
+2027-02-07T00:00:00Z,Como 1907,AC Monza,,,SCHEDULED,Serie A,SA
+2027-02-07T00:00:00Z,US Lecce,SSC Napoli,,,SCHEDULED,Serie A,SA
+2027-02-07T00:00:00Z,Venezia FC,Genoa CFC,,,SCHEDULED,Serie A,SA
+2027-02-07T00:00:00Z,AS Roma,Torino FC,,,SCHEDULED,Serie A,SA
+2027-02-07T00:00:00Z,Atalanta BC,SS Lazio,,,SCHEDULED,Serie A,SA
+2027-02-07T00:00:00Z,Parma Calcio 1913,Frosinone Calcio,,,SCHEDULED,Serie A,SA
+2027-02-07T00:00:00Z,Bologna FC 1909,AC Milan,,,SCHEDULED,Serie A,SA
+2027-02-07T00:00:00Z,ACF Fiorentina,Udinese Calcio,,,SCHEDULED,Serie A,SA
+2027-02-14T00:00:00Z,SSC Napoli,Juventus FC,,,SCHEDULED,Serie A,SA
+2027-02-14T00:00:00Z,AC Monza,US Lecce,,,SCHEDULED,Serie A,SA
+2027-02-14T00:00:00Z,Torino FC,US Sassuolo Calcio,,,SCHEDULED,Serie A,SA
+2027-02-14T00:00:00Z,Frosinone Calcio,ACF Fiorentina,,,SCHEDULED,Serie A,SA
+2027-02-14T00:00:00Z,Bologna FC 1909,Como 1907,,,SCHEDULED,Serie A,SA
+2027-02-14T00:00:00Z,AS Roma,Parma Calcio 1913,,,SCHEDULED,Serie A,SA
+2027-02-14T00:00:00Z,Udinese Calcio,Venezia FC,,,SCHEDULED,Serie A,SA
+2027-02-14T00:00:00Z,Genoa CFC,Atalanta BC,,,SCHEDULED,Serie A,SA
+2027-02-14T00:00:00Z,Cagliari Calcio,SS Lazio,,,SCHEDULED,Serie A,SA
+2027-02-14T00:00:00Z,FC Internazionale Milano,AC Milan,,,SCHEDULED,Serie A,SA
+2027-02-21T00:00:00Z,Como 1907,Torino FC,,,SCHEDULED,Serie A,SA
+2027-02-21T00:00:00Z,Atalanta BC,AC Monza,,,SCHEDULED,Serie A,SA
+2027-02-21T00:00:00Z,Udinese Calcio,Parma Calcio 1913,,,SCHEDULED,Serie A,SA
+2027-02-21T00:00:00Z,Juventus FC,Bologna FC 1909,,,SCHEDULED,Serie A,SA
+2027-02-21T00:00:00Z,ACF Fiorentina,FC Internazionale Milano,,,SCHEDULED,Serie A,SA
+2027-02-21T00:00:00Z,US Sassuolo Calcio,AS Roma,,,SCHEDULED,Serie A,SA
+2027-02-21T00:00:00Z,AC Milan,Genoa CFC,,,SCHEDULED,Serie A,SA
+2027-02-21T00:00:00Z,Venezia FC,Cagliari Calcio,,,SCHEDULED,Serie A,SA
+2027-02-21T00:00:00Z,US Lecce,Frosinone Calcio,,,SCHEDULED,Serie A,SA
+2027-02-21T00:00:00Z,SS Lazio,SSC Napoli,,,SCHEDULED,Serie A,SA
+2027-02-28T00:00:00Z,FC Internazionale Milano,Atalanta BC,,,SCHEDULED,Serie A,SA
+2027-02-28T00:00:00Z,Cagliari Calcio,Udinese Calcio,,,SCHEDULED,Serie A,SA
+2027-02-28T00:00:00Z,Parma Calcio 1913,US Sassuolo Calcio,,,SCHEDULED,Serie A,SA
+2027-02-28T00:00:00Z,Genoa CFC,SS Lazio,,,SCHEDULED,Serie A,SA
+2027-02-28T00:00:00Z,AS Roma,Venezia FC,,,SCHEDULED,Serie A,SA
+2027-02-28T00:00:00Z,Como 1907,AC Milan,,,SCHEDULED,Serie A,SA
+2027-02-28T00:00:00Z,Torino FC,ACF Fiorentina,,,SCHEDULED,Serie A,SA
+2027-02-28T00:00:00Z,Bologna FC 1909,US Lecce,,,SCHEDULED,Serie A,SA
+2027-02-28T00:00:00Z,AC Monza,Juventus FC,,,SCHEDULED,Serie A,SA
+2027-02-28T00:00:00Z,Frosinone Calcio,SSC Napoli,,,SCHEDULED,Serie A,SA
+2027-03-07T00:00:00Z,Udinese Calcio,FC Internazionale Milano,,,SCHEDULED,Serie A,SA
+2027-03-07T00:00:00Z,Atalanta BC,Torino FC,,,SCHEDULED,Serie A,SA
+2027-03-07T00:00:00Z,SSC Napoli,Parma Calcio 1913,,,SCHEDULED,Serie A,SA
+2027-03-07T00:00:00Z,US Lecce,Como 1907,,,SCHEDULED,Serie A,SA
+2027-03-07T00:00:00Z,SS Lazio,Frosinone Calcio,,,SCHEDULED,Serie A,SA
+2027-03-07T00:00:00Z,US Sassuolo Calcio,Bologna FC 1909,,,SCHEDULED,Serie A,SA
+2027-03-07T00:00:00Z,AC Monza,Genoa CFC,,,SCHEDULED,Serie A,SA
+2027-03-07T00:00:00Z,ACF Fiorentina,Venezia FC,,,SCHEDULED,Serie A,SA
+2027-03-07T00:00:00Z,AC Milan,Cagliari Calcio,,,SCHEDULED,Serie A,SA
+2027-03-07T00:00:00Z,Juventus FC,AS Roma,,,SCHEDULED,Serie A,SA
+2027-03-14T00:00:00Z,Bologna FC 1909,SSC Napoli,,,SCHEDULED,Serie A,SA
+2027-03-14T00:00:00Z,Cagliari Calcio,ACF Fiorentina,,,SCHEDULED,Serie A,SA
+2027-03-14T00:00:00Z,AC Milan,US Sassuolo Calcio,,,SCHEDULED,Serie A,SA
+2027-03-14T00:00:00Z,Genoa CFC,AS Roma,,,SCHEDULED,Serie A,SA
+2027-03-14T00:00:00Z,Parma Calcio 1913,US Lecce,,,SCHEDULED,Serie A,SA
+2027-03-14T00:00:00Z,Torino FC,FC Internazionale Milano,,,SCHEDULED,Serie A,SA
+2027-03-14T00:00:00Z,Frosinone Calcio,AC Monza,,,SCHEDULED,Serie A,SA
+2027-03-14T00:00:00Z,Como 1907,Udinese Calcio,,,SCHEDULED,Serie A,SA
+2027-03-14T00:00:00Z,SS Lazio,Juventus FC,,,SCHEDULED,Serie A,SA
+2027-03-14T00:00:00Z,Venezia FC,Atalanta BC,,,SCHEDULED,Serie A,SA
+2027-03-21T00:00:00Z,SSC Napoli,Venezia FC,,,SCHEDULED,Serie A,SA
+2027-03-21T00:00:00Z,Udinese Calcio,Torino FC,,,SCHEDULED,Serie A,SA
+2027-03-21T00:00:00Z,Juventus FC,Como 1907,,,SCHEDULED,Serie A,SA
+2027-03-21T00:00:00Z,ACF Fiorentina,Genoa CFC,,,SCHEDULED,Serie A,SA
+2027-03-21T00:00:00Z,Parma Calcio 1913,SS Lazio,,,SCHEDULED,Serie A,SA
+2027-03-21T00:00:00Z,US Sassuolo Calcio,Cagliari Calcio,,,SCHEDULED,Serie A,SA
+2027-03-21T00:00:00Z,AC Monza,Bologna FC 1909,,,SCHEDULED,Serie A,SA
+2027-03-21T00:00:00Z,FC Internazionale Milano,Frosinone Calcio,,,SCHEDULED,Serie A,SA
+2027-03-21T00:00:00Z,AS Roma,US Lecce,,,SCHEDULED,Serie A,SA
+2027-03-21T00:00:00Z,Atalanta BC,AC Milan,,,SCHEDULED,Serie A,SA
+2027-04-04T00:00:00Z,US Lecce,SS Lazio,,,SCHEDULED,Serie A,SA
+2027-04-04T00:00:00Z,Cagliari Calcio,SSC Napoli,,,SCHEDULED,Serie A,SA
+2027-04-04T00:00:00Z,Como 1907,ACF Fiorentina,,,SCHEDULED,Serie A,SA
+2027-04-04T00:00:00Z,US Sassuolo Calcio,Atalanta BC,,,SCHEDULED,Serie A,SA
+2027-04-04T00:00:00Z,AS Roma,Bologna FC 1909,,,SCHEDULED,Serie A,SA
+2027-04-04T00:00:00Z,AC Milan,AC Monza,,,SCHEDULED,Serie A,SA
+2027-04-04T00:00:00Z,Genoa CFC,FC Internazionale Milano,,,SCHEDULED,Serie A,SA
+2027-04-04T00:00:00Z,Torino FC,Juventus FC,,,SCHEDULED,Serie A,SA
+2027-04-04T00:00:00Z,Venezia FC,Parma Calcio 1913,,,SCHEDULED,Serie A,SA
+2027-04-04T00:00:00Z,Frosinone Calcio,Udinese Calcio,,,SCHEDULED,Serie A,SA
+2027-04-11T00:00:00Z,Juventus FC,US Lecce,,,SCHEDULED,Serie A,SA
+2027-04-11T00:00:00Z,SSC Napoli,US Sassuolo Calcio,,,SCHEDULED,Serie A,SA
+2027-04-11T00:00:00Z,ACF Fiorentina,AC Milan,,,SCHEDULED,Serie A,SA
+2027-04-11T00:00:00Z,SS Lazio,Torino FC,,,SCHEDULED,Serie A,SA
+2027-04-11T00:00:00Z,Cagliari Calcio,Atalanta BC,,,SCHEDULED,Serie A,SA
+2027-04-11T00:00:00Z,Parma Calcio 1913,Como 1907,,,SCHEDULED,Serie A,SA
+2027-04-11T00:00:00Z,Bologna FC 1909,Venezia FC,,,SCHEDULED,Serie A,SA
+2027-04-11T00:00:00Z,Frosinone Calcio,Genoa CFC,,,SCHEDULED,Serie A,SA
+2027-04-11T00:00:00Z,FC Internazionale Milano,AS Roma,,,SCHEDULED,Serie A,SA
+2027-04-11T00:00:00Z,Udinese Calcio,AC Monza,,,SCHEDULED,Serie A,SA
+2027-04-18T00:00:00Z,AC Monza,FC Internazionale Milano,,,SCHEDULED,Serie A,SA
+2027-04-18T00:00:00Z,ACF Fiorentina,Parma Calcio 1913,,,SCHEDULED,Serie A,SA
+2027-04-18T00:00:00Z,AS Roma,SS Lazio,,,SCHEDULED,Serie A,SA
+2027-04-18T00:00:00Z,Como 1907,Frosinone Calcio,,,SCHEDULED,Serie A,SA
+2027-04-18T00:00:00Z,US Sassuolo Calcio,US Lecce,,,SCHEDULED,Serie A,SA
+2027-04-18T00:00:00Z,Bologna FC 1909,Cagliari Calcio,,,SCHEDULED,Serie A,SA
+2027-04-18T00:00:00Z,Atalanta BC,Udinese Calcio,,,SCHEDULED,Serie A,SA
+2027-04-18T00:00:00Z,Venezia FC,Juventus FC,,,SCHEDULED,Serie A,SA
+2027-04-18T00:00:00Z,AC Milan,SSC Napoli,,,SCHEDULED,Serie A,SA
+2027-04-18T00:00:00Z,Torino FC,Genoa CFC,,,SCHEDULED,Serie A,SA
+2027-04-25T00:00:00Z,Frosinone Calcio,AS Roma,,,SCHEDULED,Serie A,SA
+2027-04-25T00:00:00Z,Cagliari Calcio,AC Monza,,,SCHEDULED,Serie A,SA
+2027-04-25T00:00:00Z,SSC Napoli,Udinese Calcio,,,SCHEDULED,Serie A,SA
+2027-04-25T00:00:00Z,Parma Calcio 1913,Atalanta BC,,,SCHEDULED,Serie A,SA
+2027-04-25T00:00:00Z,SS Lazio,Como 1907,,,SCHEDULED,Serie A,SA
+2027-04-25T00:00:00Z,Juventus FC,ACF Fiorentina,,,SCHEDULED,Serie A,SA
+2027-04-25T00:00:00Z,Genoa CFC,US Sassuolo Calcio,,,SCHEDULED,Serie A,SA
+2027-04-25T00:00:00Z,US Lecce,AC Milan,,,SCHEDULED,Serie A,SA
+2027-04-25T00:00:00Z,Venezia FC,Torino FC,,,SCHEDULED,Serie A,SA
+2027-04-25T00:00:00Z,FC Internazionale Milano,Bologna FC 1909,,,SCHEDULED,Serie A,SA
+2027-05-02T00:00:00Z,Atalanta BC,Juventus FC,,,SCHEDULED,Serie A,SA
+2027-05-02T00:00:00Z,Torino FC,Parma Calcio 1913,,,SCHEDULED,Serie A,SA
+2027-05-02T00:00:00Z,AC Milan,SS Lazio,,,SCHEDULED,Serie A,SA
+2027-05-02T00:00:00Z,Udinese Calcio,Genoa CFC,,,SCHEDULED,Serie A,SA
+2027-05-02T00:00:00Z,US Sassuolo Calcio,Frosinone Calcio,,,SCHEDULED,Serie A,SA
+2027-05-02T00:00:00Z,Bologna FC 1909,ACF Fiorentina,,,SCHEDULED,Serie A,SA
+2027-05-02T00:00:00Z,Como 1907,FC Internazionale Milano,,,SCHEDULED,Serie A,SA
+2027-05-02T00:00:00Z,AC Monza,Venezia FC,,,SCHEDULED,Serie A,SA
+2027-05-02T00:00:00Z,US Lecce,Cagliari Calcio,,,SCHEDULED,Serie A,SA
+2027-05-02T00:00:00Z,AS Roma,SSC Napoli,,,SCHEDULED,Serie A,SA
+2027-05-09T00:00:00Z,Parma Calcio 1913,AC Milan,,,SCHEDULED,Serie A,SA
+2027-05-09T00:00:00Z,Genoa CFC,Cagliari Calcio,,,SCHEDULED,Serie A,SA
+2027-05-09T00:00:00Z,SS Lazio,US Sassuolo Calcio,,,SCHEDULED,Serie A,SA
+2027-05-09T00:00:00Z,SSC Napoli,AC Monza,,,SCHEDULED,Serie A,SA
+2027-05-09T00:00:00Z,FC Internazionale Milano,US Lecce,,,SCHEDULED,Serie A,SA
+2027-05-09T00:00:00Z,Venezia FC,Como 1907,,,SCHEDULED,Serie A,SA
+2027-05-09T00:00:00Z,Udinese Calcio,Juventus FC,,,SCHEDULED,Serie A,SA
+2027-05-09T00:00:00Z,Torino FC,Bologna FC 1909,,,SCHEDULED,Serie A,SA
+2027-05-09T00:00:00Z,Frosinone Calcio,Atalanta BC,,,SCHEDULED,Serie A,SA
+2027-05-09T00:00:00Z,ACF Fiorentina,AS Roma,,,SCHEDULED,Serie A,SA
+2027-05-16T00:00:00Z,SSC Napoli,Genoa CFC,,,SCHEDULED,Serie A,SA
+2027-05-16T00:00:00Z,US Lecce,ACF Fiorentina,,,SCHEDULED,Serie A,SA
+2027-05-16T00:00:00Z,SS Lazio,Udinese Calcio,,,SCHEDULED,Serie A,SA
+2027-05-16T00:00:00Z,Bologna FC 1909,Frosinone Calcio,,,SCHEDULED,Serie A,SA
+2027-05-16T00:00:00Z,Como 1907,Atalanta BC,,,SCHEDULED,Serie A,SA
+2027-05-16T00:00:00Z,Juventus FC,FC Internazionale Milano,,,SCHEDULED,Serie A,SA
+2027-05-16T00:00:00Z,US Sassuolo Calcio,Venezia FC,,,SCHEDULED,Serie A,SA
+2027-05-16T00:00:00Z,AC Monza,Parma Calcio 1913,,,SCHEDULED,Serie A,SA
+2027-05-16T00:00:00Z,AC Milan,AS Roma,,,SCHEDULED,Serie A,SA
+2027-05-16T00:00:00Z,Cagliari Calcio,Torino FC,,,SCHEDULED,Serie A,SA
+2027-05-23T00:00:00Z,AS Roma,Como 1907,,,SCHEDULED,Serie A,SA
+2027-05-23T00:00:00Z,Parma Calcio 1913,Juventus FC,,,SCHEDULED,Serie A,SA
+2027-05-23T00:00:00Z,Torino FC,SSC Napoli,,,SCHEDULED,Serie A,SA
+2027-05-23T00:00:00Z,Atalanta BC,US Lecce,,,SCHEDULED,Serie A,SA
+2027-05-23T00:00:00Z,FC Internazionale Milano,SS Lazio,,,SCHEDULED,Serie A,SA
+2027-05-23T00:00:00Z,Udinese Calcio,US Sassuolo Calcio,,,SCHEDULED,Serie A,SA
+2027-05-23T00:00:00Z,Frosinone Calcio,Cagliari Calcio,,,SCHEDULED,Serie A,SA
+2027-05-23T00:00:00Z,ACF Fiorentina,AC Monza,,,SCHEDULED,Serie A,SA
+2027-05-23T00:00:00Z,Venezia FC,AC Milan,,,SCHEDULED,Serie A,SA
+2027-05-23T00:00:00Z,Genoa CFC,Bologna FC 1909,,,SCHEDULED,Serie A,SA
+2027-05-30T00:00:00Z,AC Milan,Udinese Calcio,,,SCHEDULED,Serie A,SA
+2027-05-30T00:00:00Z,Juventus FC,Frosinone Calcio,,,SCHEDULED,Serie A,SA
+2027-05-30T00:00:00Z,AC Monza,Torino FC,,,SCHEDULED,Serie A,SA
+2027-05-30T00:00:00Z,US Sassuolo Calcio,FC Internazionale Milano,,,SCHEDULED,Serie A,SA
+2027-05-30T00:00:00Z,Cagliari Calcio,AS Roma,,,SCHEDULED,Serie A,SA
+2027-05-30T00:00:00Z,SS Lazio,ACF Fiorentina,,,SCHEDULED,Serie A,SA
+2027-05-30T00:00:00Z,Como 1907,Genoa CFC,,,SCHEDULED,Serie A,SA
+2027-05-30T00:00:00Z,SSC Napoli,Atalanta BC,,,SCHEDULED,Serie A,SA
+2027-05-30T00:00:00Z,US Lecce,Venezia FC,,,SCHEDULED,Serie A,SA
+2027-05-30T00:00:00Z,Bologna FC 1909,Parma Calcio 1913,,,SCHEDULED,Serie A,SA
